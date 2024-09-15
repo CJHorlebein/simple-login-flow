@@ -1,0 +1,13 @@
+.inputContainer {
+  min-height: 140px;
+}
+
+.submitBtn {
+  margin: 0 auto;
+  display: block;
+}
+
+.formError {
+  margin-top: 20px;
+  font-style: italic;
+}
